@@ -1,4 +1,4 @@
-// Q-3
+// Ques-3
 // Platform LeetCode 53 Medium
 // Companies: Microsoft + Facebook Interview Qs
 // Time Complexity: O(n), where n is the length of the input array nums
