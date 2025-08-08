@@ -1,5 +1,5 @@
 // Ques-6
-// Platform: LeetCode
+// Platform: LeetCode 33 Medium
 // Companies: Microsoft, Google, Adobe, Amazon, D-E-Shaw, Flipkart, Hike, Intuit, MakeMyTrip, Paytm
 // Time Complexity: O(log n) - Binary search in rotated sorted array
 // Space Complexity: O(1) - Constant extra space
