@@ -1,6 +1,6 @@
-//Ques 1
+//Ques-1
 //Platform GFG
-//Company: ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
+//Companies: ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
 import java.util.*;
 
 class Pair<K, V> {
@@ -21,7 +21,7 @@ class Pair<K, V> {
     }
 }
 
-public class MaxAndMinInArr1 {
+public class MaxAndMinInArrQ1 {
     public static void main(String[] args) {
         int[] arr = {1000, 11, 445, 1, 330, 3000};
         Pair<Integer, Integer> result = getMinMax(arr);
