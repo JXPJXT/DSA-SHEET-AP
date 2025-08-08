@@ -1,6 +1,8 @@
-//Ques-1
-//Platform GFG
-//Companies: ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
+// Ques-1
+// Platform GFG
+// Companies: ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe
+// Time Complexity: O(n), where n is the length of the input array
+// Space Complexity: O(1), as only a constant amount of extra space is used
 import java.util.*;
 
 class Pair<K, V> {
