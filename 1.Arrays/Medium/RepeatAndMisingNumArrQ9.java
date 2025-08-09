@@ -1,7 +1,8 @@
 //Ques-9
 //Platform: InterviewBit Medium
 //Companies: Amazon Interview Qs
-
+//Time Complexity: O(n) — single pass to calculate sums, constant math at the end.
+//Space Complexity: O(1) — no extra DS used, just variables.
 
 import java.util.*;
 public class RepeatAndMisingNumArrQ9 {
